@@ -1,4 +1,4 @@
-# Repositório treinamento data science Lets-code Boticário
+# Repositório treinamento data science Letscode Boticário
 ___
 
 ### Case Olist e Movielens
