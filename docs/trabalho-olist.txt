@@ -1,0 +1,19 @@
+Processamento de dados:
+- criar tabela com todos os MQLs, com todas as informações disponíveis para cada um.
+- criar uma coluna com quais MQLs fecharam acordo e quais foram perdidos.
+
+Perguntas a serem respondidas:
+- Qual foi a taxa de conversão total?
+- Qual foi a taxa de conversão de cada origem?
+- Qual foi a taxa de conversão de cada página inicial?
+- Para cada SR, qual a receita média declarada dos leads?
+- Para cada SR, quantos de cada business_type a pessoa converteu?
+- Para cada SR, quantos de cada lead_behaviour_profile a pessoa converteu?
+- Para cada SR, quantos de cada lead_type a pessoa converteu?
+
+Extra:
+Caso consiga resolver as questões acima com facilidade, aproveite a base “irmã” dessa para fazer outras explorações que você ache interessante!
+https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
+Lembre de separar novamente em 2 etapas:
+Processamento dos dados, para criar uma tabela “analítica”.
+Análise exploratória dos dados.
