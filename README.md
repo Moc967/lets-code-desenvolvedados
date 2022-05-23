@@ -22,7 +22,7 @@ Este repositório está sendo compartilhado com um colega que apoiará no desenv
 para responder às perguntas de dois conjuntos de dados. </p>
 <p>
 O grupo fez o processamento e exploração dos dados 01 (funil de marketing da Olist). E depois, escolheu os dados de 
-review de filmes (movielens).</p>
+review de filmes (Movie Lens).</p>
 <p>
 Todos os membros da equipe se ajudaram e fizeram parte do projeto, dando sua contribuição.
 </p>
