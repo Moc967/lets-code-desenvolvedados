@@ -26,3 +26,5 @@ review de filmes (movielens).</p>
 <p>
 Todos os membros da equipe se ajudaram e fizeram parte do projeto, dando sua contribuição.
 </p>
+
+---
