@@ -1,0 +1,15 @@
+Perguntas:
+
+Quantos gêneros o filme “The Matrix” tem? Quais são os gêneros?
+Quantos gêneros cada filme tem, em média?
+Quais são os cinco filmes com maior número de gêneros?
+Quantos usuários deram nota para o filme “The Matrix”?
+Quantos usuários, em média, deram nota para cada filme?
+Quais são os cinco filmes para os quais mais usuários deram nota?
+Qual o rating médio do filme “The Matrix”?
+Cada filme tem um rating médio. Qual a média desses ratings, por gênero?
+Para cada gênero de filme, quantos usuários deram cada nota possível?
+
+Dicas:
+Só é necessário as tabelas movies e ratings para este projeto.
+Pesquise a função “explode” no pandas. Ela pode ser útil.
