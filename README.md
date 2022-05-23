@@ -1,12 +1,8 @@
-<span style="color:darkgreen;font-weight:600;font-size:36px">
-Repositório Data Science LetsCode Boticário</span>
 
+# Repositório Data Science LetsCode Boticário</span>
 ---
 
-<span style="color:blue;font-weight:600;font-size:30px">
-Cases Olist e Movielens
-</span>
-
+## Cases Olist e Movielens
 ___
 
 ![Python](https://img.shields.io/badge/Python-094782?style=for-the-badge&logo=python&logoColor=white)&nbsp;
